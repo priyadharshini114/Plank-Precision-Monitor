@@ -1,7 +1,5 @@
 # Plank-Precision-Monitor
 
-# Plank Precision Monitor
-
 **Plank Precision Monitor** is a real-time application designed to evaluate and enhance plank exercises using pose estimation technology. It provides detailed feedback on body alignment and tracks the duration of the plank position.
 
 ## Description
