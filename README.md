@@ -11,7 +11,6 @@ This project uses MediaPipe to analyze plank exercises from video input. It calc
 - Real-time pose estimation
 - Accurate angle calculation for body alignment
 - Plank duration tracking with start and end times
-- Real-time feedback and visualizations
 - Summary of total plank time at the end of the video
 
 ## Requirements
